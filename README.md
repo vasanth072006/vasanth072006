@@ -9,6 +9,52 @@
 
 ---
 
+
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+<h2 align="center">📊 GITHUB & LEETCODE STATS</h2>
+
+<table align="center">
+  <tr>
+    <td align="right">
+      <img src="https://github-readme-stats-mu-eosin.vercel.app/api?username=vasanth072006&show_icons=true&theme=tokyonight" height="180em"/><br><br>
+      <img src="https://github-readme-stats-mu-eosin.vercel.app/api/top-langs/?username=vasanth072006&layout=compact&theme=tokyonight" height="180em"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Vasanth_072006?theme=dark&font=Fira+Code&ext=heatmap" width="250"/>
+    </td>
+  </tr>
+</table>
+---
+
+## 🏅 Achievements
+
+🥇 **Vortex Hackathon** — Winner (SSN)  
+🥇 **Larsen & Toubro Hackathon** — Winner (SJIT)  
+🥇 **Aavishkar Hackathon** — Winner (SRM)  
+🥇 **Startup Spark India** — Winner (REC)  
+📜 **Patent** — Border Navigation Without GPS or Internet
+
+---
+
+<p align="center">
+  <img src="./images/images2.jpg" width="200"/>
+</p>
+
+<p align="center"><em>"Stay curious. Keep building." 🚀</em></p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
 ## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/vasanth-saravanan-50486a294">
@@ -23,53 +69,3 @@
 </p>
 
 ---
-
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-<h2 align="left">📊 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</h2>
-
-<p align="center">
- <img src="https://github-readme-stats-mu-eosin.vercel.app/api?username=vasanth072006&show_icons=true&theme=tokyonight" height="180em" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-mu-eosin.vercel.app/api/top-langs/?username=vasanth072006&layout=compact&theme=tokyonight" height="180em" />
-
-</p>
----
-
-# 📊 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vasanth_072006?theme=dark&font=Fira+Code&ext=heatmap" alt="Vasanth's LeetCode Stats" />
-</p>
-
----
-
-## 🏅 Achievements
-
-🥇 **Vortex Hackathon** — Winner (SSN)  
-🥇 **Larsen & Toubro Hackathon** — Winner (SJIT)  
-🥇 **Aavishkar Hackathon** — Winner (SRM)  
-🥇 **Startup Spark India** — Winner (REC)  
-📜 **Patent** — Border Navigation Without GPS or Internet
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vasanth072006&icon=0&color=0" />
-  </a>
-</p>
-
-<p align="center"><em>"Stay curious. Keep building." 🚀</em></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
