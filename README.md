@@ -21,19 +21,26 @@
 </p>
 
 ---
-<h2 align="center">📊 GITHUB & LEETCODE STATS</h2>
+<h1 align="left">📊 LEETCODE STATS:</h1>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Vasanth_072006?theme=dark&font=Dosis&ext=heatmap" width="450"/>
+</p>
+
+---
+<h1 align="left">📊 GITHUB STATS:</h1>
 
 <table align="center">
   <tr>
-    <td align="right">
-      <img src="https://github-readme-stats-mu-eosin.vercel.app/api?username=vasanth072006&show_icons=true&theme=tokyonight" height="180em"/><br><br>
-      <img src="https://github-readme-stats-mu-eosin.vercel.app/api/top-langs/?username=vasanth072006&layout=compact&theme=tokyonight" height="180em"/>
+    <td>
+      <img src="https://github-readme-stats-mu-eosin.vercel.app/api?username=vasanth072006&show_icons=true&theme=tokyonight" height="180em"/>
     </td>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Vasanth_072006?theme=dark&font=Fira+Code&ext=heatmap" width="250"/>
+    <td>
+      <img src="https://github-readme-stats-mu-eosin.vercel.app/api/top-langs/?username=vasanth072006&layout=compact&theme=tokyonight" height="180em"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🏅 Achievements
